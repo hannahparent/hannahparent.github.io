@@ -1,1 +1,30 @@
+<head>
+    <title>informatica.website</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="Opmaak.css">
+</head>
+<body>
+   
+    <ul class="top-level-menu">
+        <li><a href="index.html">Home</a></li>
+      <li>
+            <a href="#">3-lagenmodel</a>
+            <ul class="second-level-menu">
+                <li><a href="Toepassingslaag.html">Toepassingenlaag</a></li>
+                <li><a href="Fysiekelaag.html">Fysiekelaag</a></li>
+                <li><a href="Logischelaag.html">Logischelaag</a></li>
+            </ul>
+      </li> 
+      <li><a href="databases.html">Databases</a></li> 
+    </ul>
 
+        <h1>Titel</h1>
+            <article>
+             <h2> eventueel subtitel</h2> <!--We hebben voor alle kopjes lettergrootte h2 gebruikt-->
+             <p> Tekst
+             <p/>
+            </article>
+
+    
+</body>
+</html>
